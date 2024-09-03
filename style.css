@@ -1,0 +1,684 @@
+.caixa{
+    width: 100px;
+    height: 100px;
+    display: block;
+    border: 3px solid black;
+    border-radius: 10%;
+    margin: 5px ;
+    float: left;
+}
+.TabelaPeriodica{
+    height: 1500px;
+    width: 100%;
+    background-color: blue;
+}
+.MetalAlcalino{
+    height: 780px;
+    width: 115px;
+    float: left;
+    
+    margin-left: 10px;
+    
+}
+.MetalAlcalinoTerroso{
+    height: 665px;
+    width: 115px;
+   
+    float: left;
+    margin-top: 110px;
+    margin-left: 0px;
+}
+.MetaldeTransicao{
+    height: 445px;
+    width: 115px;
+    float: left;
+    margin-top: 330px;
+}
+.MetaldeTransicao1{
+    height: 445px;
+    width: 115px;
+    float: left;
+    margin-top: 330px;
+    
+}
+.MetaldeTransicao2{
+    height: 445px;
+    width: 115px;
+    
+    float: left;
+    margin-top: 330px;
+    
+}
+.MetaldeTransicao3{
+    height: 445px;
+    width: 115px;
+    
+    float: left;
+    margin-top: 330px;
+}
+.MetaldeTransicao4{
+    height: 445px;
+    width: 115px;
+    
+    float: left;
+    margin-top: 330px;
+}
+.MetaldeTransicao5{
+    height: 445px;
+    width: 115px;
+    
+    float: left;
+    margin-top: 330px;
+}
+.MetaldeTransicao6{
+    height: 445px;
+    width: 115px;
+    
+    float: left;
+    margin-top: 330px;  
+}
+.MetaldeTransicao7{
+    height: 445px;
+    width: 115px;
+    
+    float: left;
+    margin-top: 330px;  
+}
+.MetaldeTransicao8{
+    height: 445px;
+    width: 115px;
+    
+    float: left;
+    margin-top: 330px;  
+}
+.MetaldeTransicao9{
+    height: 445px;
+    width: 115px;
+    
+    float: left;
+    margin-top: 330px;  
+}
+.FamiliadoBoro{
+    height: 670px;
+    width: 115px;
+    
+    float: left;
+    margin-top: 110px; 
+}
+.FamiliadoCarbono{
+    height: 670px;
+    width: 115px;
+    
+    float: left;
+    margin-top: 110px; 
+}
+.FamiliadoNitrogenio{
+    height: 670px;
+    width: 115px;
+    float: left;
+    margin-top: 110px; 
+}
+.FamiliadoOxigenio{
+    height: 670px;
+    width: 115px;
+    float: left;
+    margin-top: 110px; 
+}
+.FamiliadoHalogênio{
+    height: 670px;
+    width: 115px;
+    float: left;
+    margin-top: 110px; 
+}
+.FamiliadosGasesNobres{
+    height: 780px;
+    width: 115px;
+    float: left;
+    margin-left: 5px;
+    margin-top: 0px;
+}
+.col1{
+    height: 115px;
+    width: 1715px;
+    float: left;
+    
+    margin-left: 360px;
+    display: block;
+    margin-top: 15px
+}
+.col1{
+    height: 115px;
+    width: 1715px;
+    float: left;
+    
+    margin-left: 360px;
+    display: block;
+    margin-top: 15px
+}
+.nome{
+    width: 100px;
+    text-align: center;
+    display: block;
+    font-size : xx-large;
+}
+.corBranco{
+    background-color: aliceblue;
+}
+.corAmarelo{
+    background-color: yellow;
+}
+.corAzul{
+    background-color: rgb(75, 147, 209);
+}
+.corRoxo{
+    background-color: rgb(158, 104, 209);
+}
+.corRosa{
+background-color: pink;
+}
+.corLaranja{
+    background-color: rgb(231, 187, 105);
+}
+.corAmarela{
+    background-color: rgb(235, 235, 110);
+}
+.corVerde{
+    background-color: rgb(112, 187, 112);
+}
+.corCinza{
+    background-color: rgb(128, 123, 123);
+}
+.numero{
+    display: block;
+    text-align: right;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+
+}
+
+.numeroatomico{
+    margin-left: 25px;
+}
+#H{
+    font-size: large;
+    margin-left: 10px;
+
+}
+#Li{
+    font-size: large;
+    margin-left: 35px; 
+}
+#Na{
+    font-size: large;
+    margin-left: 35px; 
+}
+#K{
+    font-size: large;
+    margin-left: 20px;
+}
+#Rb{
+    font-size: large;
+    margin-left: 23px; 
+}
+#Cs{
+    font-size: large;
+    margin-left: 30px; 
+}
+#Fr{
+    font-size: large;
+    margin-left: 25px; 
+}
+#Be{
+    font-size: large;
+    margin-left: 25px; 
+}
+#Mg{
+    font-size: large;
+    margin-left: 20px; 
+}
+#Ca{
+    font-size: large;
+    margin-left: 25px; 
+}
+#Sr{
+    font-size: large;
+    margin-left: 20px; 
+}
+#Ba{
+    font-size: large;
+    margin-left: 30px; 
+}
+#Ra{
+    font-size: large;
+    margin-left: 28px; 
+}
+#Sc{
+    font-size: large;
+    margin-left: 20px; 
+}
+#Y{
+    font-size: large;
+    margin-left: 35px; 
+}
+#Y{
+    font-size: large;
+    margin-left: 35px; 
+}
+#Y{
+    font-size: large;
+    margin-left: 35px; 
+}
+#Ti{
+    font-size: large;
+    margin-left: 25px; 
+}
+#V{
+    font-size: large;
+    margin-left: 20px; 
+}
+#Cr{
+    font-size: large;
+    margin-left: 25px; 
+}
+#Mn{
+    font-size: large;
+    margin-left: 15px; 
+}
+#Fe{
+    font-size: large;
+    margin-left: 30px; 
+}
+#Co{
+    font-size: large;
+    margin-left: 25px; 
+}
+#Zr{
+    font-size: large;
+    margin-left: 25px; 
+}
+#Cu{
+    font-size: large;
+    margin-left: 30px; 
+}
+#Zn{
+    font-size: large;
+    margin-left: 25px; 
+}
+#Nb{
+    font-size: large;
+    margin-left: 25px; 
+}
+#Ta{
+    font-size: large;
+    margin-left: 25px; 
+}
+#Db{
+    font-size: large;
+    margin-left: 25px; 
+}
+#Hf{
+    font-size: large;
+    margin-left: 25px; 
+}
+#Rf{
+    font-size: large;
+    margin-left: 6px; 
+}
+#Mo{
+    font-size: large;
+    margin-left: 12px; 
+}
+#W{
+    font-size: large;
+    margin-left: 12px; 
+}
+#Sg{
+    font-size: large;
+    margin-left: 12px; 
+}
+#Tc{
+    font-size: large;
+    margin-left: 15px; 
+}
+#Re{
+    font-size: large;
+    margin-left: 25px; 
+}
+#Bh{
+    font-size: large;
+    margin-left: 20px; 
+}
+#Ru{
+    font-size: large;
+    margin-left: 20px; 
+}
+#Os{
+    font-size: large;
+    margin-left: 25px; 
+}
+#Hs{
+    font-size: large;
+    margin-left: 25px; 
+}
+#Rh{
+    font-size: large;
+    margin-left: 25px; 
+}
+#Ir{
+    font-size: large;
+    margin-left: 25px; 
+}
+#Mt{
+    font-size: large;
+    margin-left: 20px; 
+}
+#Pd{
+    font-size: large;
+    margin-left: 20px; 
+}
+#Pt{
+    font-size: large;
+    margin-left: 20px; 
+}
+#Ds{
+    font-size: large;
+    margin-left: 10px; 
+}
+#Ag{
+    font-size: large;
+    margin-left: 30px; 
+}
+#Au{
+    font-size: large;
+    margin-left: 30px; 
+}
+#Rg{
+    font-size: large;
+    margin-left: 10px; 
+}
+#Cd{
+    font-size: large;
+    margin-left: 20px; 
+}
+#Hg{
+    font-size: large;
+    margin-left: 20px; 
+}
+#Cn{
+    font-size: large;
+    margin-left: 10px; 
+}
+#B{
+    font-size: large;
+    margin-left: 25px; 
+}
+#Al{
+    font-size: large;
+    margin-left: 15px; 
+}
+#Ga{
+    font-size: large;
+    margin-left: 20px; 
+}
+#In{
+    font-size: large;
+    margin-left: 30px; 
+}
+#Ti{
+    font-size: large;
+    margin-left: 25px; 
+}
+#Nh{
+    font-size: large;
+    margin-left: 20px; 
+}
+#C{
+    font-size: large;
+    margin-left: 25px; 
+}
+#Si{
+    font-size: large;
+    margin-left: 20px; 
+}
+#Ge{
+    font-size: large;
+    margin-left: 20px; 
+}
+#Sn{
+    font-size: large;
+    margin-left: 25px; 
+}
+#Pb{
+    font-size: large;
+    margin-left: 25px; 
+}
+#Fi{
+    font-size: large;
+    margin-left: 20px; 
+}
+#N{
+    font-size: large;
+    margin-left: 15px; 
+}
+#P{
+    font-size: large;
+    margin-left: 20px; 
+}
+#F{
+    font-size: large;
+    margin-left: 20px; 
+}
+#Se{
+    font-size: large;
+    margin-left: 20px; 
+}
+#Te{
+    font-size: large;
+    margin-left: 20px; 
+}
+#Po{
+    font-size: large;
+    margin-left: 20px; 
+}
+#Lv{
+    font-size: large;
+    margin-left: 15px; 
+}
+#F{
+    font-size: large;
+    margin-left: 30px; 
+}
+#Cl{
+    font-size: large;
+    margin-left: 30px; 
+}
+#Br{
+    font-size: large;
+    margin-left: 30px; 
+}
+#I{
+    font-size: large;
+    margin-left: 30px; 
+}
+#At{
+    font-size: large;
+    margin-left: 30px; 
+}
+#Ts{
+    font-size: large;
+    margin-left: 15px; 
+}
+#As{
+    font-size: large;
+    margin-left: 20px; 
+}
+#Sb{
+    font-size: large;
+    margin-left: 15px; 
+}
+#Bi{
+    font-size: large;
+    margin-left: 20px; 
+}
+#Mc{
+    font-size: large;
+    margin-left: 20px; 
+}
+#O{
+    font-size: large;
+    margin-left: 20px; 
+}
+#S{
+    font-size: large;
+    margin-left: 20px; 
+}
+#He{
+    font-size: large;
+    margin-left: 25px; 
+}
+#Ne{
+    font-size: large;
+    margin-left: 20px; 
+}
+#Ar{
+    font-size: large;
+    margin-left: 20px; 
+}
+#Kr{
+    font-size: large;
+    margin-left: 15px; 
+}
+#Xe{
+    font-size: large;
+    margin-left: 20px; 
+}
+#Rn{
+    font-size: large;
+    margin-left: 20px; 
+}
+#Og{
+    font-size: large;
+    margin-left: 5px; 
+}
+#La{
+    font-size: large;
+    margin-left: 15px; 
+}
+#Ce{
+    font-size: large;
+    margin-left: 25px; 
+}
+#Pr{
+    font-size: large;
+    margin-left: 5px; 
+}
+#Nd{
+    font-size: large;
+    margin-left: 15px; 
+}
+#Pm{
+    font-size: large;
+    margin-left: 15px; 
+}
+#Eu{
+    font-size: large;
+    margin-left: 15px; 
+}
+#Gd{
+    font-size: large;
+    margin-left: 15px; 
+}
+#Tb{
+    font-size: large;
+    margin-left: 15px; 
+}
+#Dy{
+    font-size: large;
+    margin-left: 15px; 
+}
+#Ho{
+    font-size: large;
+    margin-left: 15px; 
+}
+#Sm{
+    font-size: large;
+    margin-left: 15px; 
+}
+#Er{
+    font-size: large;
+    margin-left: 30px; 
+}
+#Tm{
+    font-size: large;
+    margin-left: 30px; 
+}
+#Yb{
+    font-size: large;
+    margin-left: 30px; 
+}
+#Lu{
+    font-size: large;
+    margin-left: 15px; 
+}
+#Ac{
+    font-size: large;
+    margin-left: 25px; 
+}
+#Th{
+    font-size: large;
+    margin-left: 25px; 
+}
+#Pa{
+    font-size: large;
+    margin-left: 15px; 
+}
+#U{
+    font-size: large;
+    margin-left: 25px; 
+}
+#Np{
+    font-size: large;
+    margin-left: 25px; 
+}
+#Pu{
+    font-size: large;
+    margin-left: 25px; 
+}
+#Am{
+    font-size: large;
+    margin-left: 25px; 
+}
+#Cm{
+    font-size: large;
+    margin-left: 25px; 
+}
+#Bk{
+    font-size: large;
+    margin-left: 25px; 
+}
+#Cf{
+    font-size: large;
+    margin-left: 25px; 
+}
+#Es{
+    font-size: large;
+    margin-left: 25px; 
+}
+#Fm{
+    font-size: large;
+    margin-left: 25px; 
+}
+#Md{
+    font-size: large;
+    margin-left: 10px; 
+}
+#No{
+    font-size: large;
+    margin-left: 25px; 
+}
+#Lr{
+    font-size: large;
+    margin-left: 20px; 
+}
+
+
+
